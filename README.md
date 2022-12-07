@@ -4,6 +4,8 @@
 
 ### 1차 모의경진대회
 * 뇌파 데이터 수면 단계 분류 (sleep_state)
+![alt](https://github.com/parksu111/gsa_2022/blob/main/img/sleep.png)
 
 ### 2차 모의경진대회
 * 항공사진 토지피복지도 이미지 객체분할 (map_seg)
+![alt](https://github.com/parksu111/gsa_2022/blob/main/img/map.png)
