@@ -1,0 +1,17 @@
+[
+	{
+		"img_id" : "LC_AP_37607046_004",
+		"img_width" : 512,
+		"img_height" : 512,
+		"img_type" : "aerophoto",
+		"img_coordinate" : "EPSG:5186",
+		"coordinates" : "167682.005000001, 561053.015136268",
+		"img_resolution" : 0.51,
+		"img_time" : 2018,
+		"img_provided" : "",
+		"ann_id" : "LC_AP_37607046_004_FGT",
+		"ann_type" : "polygon",
+		"ann_file_type" : "tif",
+		"provided_nm" : "ѱȸ"
+	}
+]
